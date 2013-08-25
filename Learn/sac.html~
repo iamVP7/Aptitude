@@ -1,0 +1,63 @@
+<div style="background-color: #202020" data-bb-type="screen">
+	<div data-bb-type="title" data-bb-caption="Square and Cube roots"></div>
+
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>To find the square roots</h2>
+		<b>Step 1: Learn the Squares of 0 to 9</b> <br />
+		<ul>
+<li>last digits for the squares of 1 and 9 are both 1.</li>
+<li>last digits for the squares of 2 and 8 are both 4.</li>
+<li>last digits for the squares of 3 and 7 are both 9.</li>
+<li>last digits for the squares of 4 and 6 are both 6.</li>
+</ul>
+	<b>Step 2:Take the number leave last 2 digits.Now find the square for remaining which is less than the number.</b><br />
+		<i>say for 196. ignore 96 so we have 1 and square root of 1 is 1.</i> <br /> <br />
+
+	<b> Now take the last digit for the given number. In our case it is 6</b><br />
+		<i>We may have 2 numbers. So need to choose which one among them.  
+ To find which one lower or higher value. 
+<ul> 
+<li>Just multiply the previously obtained square root answer with a number which is greater than it by 1.</li>
+<li>so we got 1 before now. 1 * 2 = 2.</li>
+<li>1 is less than 2 so it is 4. So our answer is 14.</li>
+
+</ul>
+ </i> <br />
+ 
+		</div>
+	</div>
+
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>To find the cube roots</h2>
+		<b>Step 1: Learn the Cubes of 0 to 9</b> <br />
+		 
+<ul>  
+<li>the last digit of the cubes for 0, 1, 4, 5, 6, and 9 end with the original number.</li>
+<li>the last digits for the cubes of 2 and 8 are swapped.</li>
+<li>the last digits for the cubes of 3 and 7 are swapped.</li> </ul>
+
+
+	<b>Step 2: Determine the Cube Root For remaining digits Ignore the last three digits of the number.</b><br />
+		<i>say for 148877 Leave last three digits(877). it should be 125( 5 * 5 * 5)</i> <br /> <br />
+
+	<b> Now take the last digit for the given number. In our case it is 6</b><br />
+		<i>We may have 2 numbers. So need to choose which one among them.  
+ To find which one lower or higher value. 
+<ul> 
+<li>Just multiply the previously obtained square root answer with a number which is greater than it by 1.</li>
+<li>so we got 1 before now. 1 * 2 = 2.</li>
+<li>1 is less than 2 so it is 4. So our answer is 14.</li>
+
+</ul>
+ </i> <br />
+ 
+		</div>
+	</div>
+	 
+	 
+	<div data-bb-type="action-bar" data-bb-back-caption="Back"></div>
+</div>

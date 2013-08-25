@@ -1,0 +1,113 @@
+<div style="background-color: #202020" data-bb-type="screen">
+	<div data-bb-type="title" data-bb-caption="Simple and Compound Interest"></div>
+
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2> Simple interest</h2>
+	 
+		<i>interest paid on the principal alone. </i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2> Compound interest</h2>
+	 
+		<i>interest calculated on both the principal and the accrued interest.</i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2> Interest</h2>
+	 
+		<i>extra money we need to pay. </i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2> Rate</h2>
+	 
+		<i> percentage at which we have to pay</i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2> Principle</h2>
+	 
+		<i>Amount which we have got </i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>SI formula </h2>
+	 
+		<b>S.I = (P * N * R) / 100 <br />
+		P=(S.I * 100) /(N *R)<br />
+N=(S.I * 100) /(P *R)<br />
+R=(S.I * 100) /(N *R)</b><br /> <br /> 
+<i>
+S.I= Simple Interest<br />
+P= Principle <br />
+N= no. of years<br />
+R= Rate of interest. </i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2> Compound Interest Formula</h2>
+	 
+		<b>Amount= p * (1 + r/100) ^ n </b> <br /> <br />
+	<i>p=Principle<br />
+r= rate of interest <br />
+n= number of years </i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2> When the interest is compound half - yearly then</h2>
+	 
+		<b>Amount = p * (1 + r/( 2 *100) ) ^ ( 2* n) </b>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2> For different rate of interest we have the formula as</h2>
+	 
+		<i>Amount = p * (1 + r1/100) * (1 + r2/100) * (1 + r3/100)  </i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		 
+	 
+		<b>C.I = Amount - Principle <br />
+
+C.I= compound interest </b>
+ 
+		</div>
+	</div>
+
+ 
+ 
+	 
+	 
+	<div data-bb-type="action-bar" data-bb-back-caption="Back"></div>
+</div>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<widget xmlns="http://www.w3.org/ns/widgets" 
+    xmlns:rim="http://www.blackberry.com/ns/widgets"
+    version="1.0.0.0" id="Aptitudetest">   
+   
+    <name>Aptitude</name> 
+
+    <author>Viswaprasath</author>
+
+    <description>This application will teach you short tips and tricks regarding the aptitude test. You can learn and try to take 
+the test and check your skills. Nearly there are 200 questions which are divided equally for all groups and each time questions will come randomly. You need to spend time on learning. Maximum you will have 10minutes to solve 10 question.</description>
+
+    <icon src="images/icons/icon.png"/>
+    <content src="index.html"/> 
+<feature id="blackberry.app">
+    <param name="orientation" value="portrait" />
+    <param name="backgroundColor" value="0xFFFF0000" />
+  </feature>
+
+<access uri="technoruler.blogspot.com" subdomains="false" />
+
+<license>
+   This application is developed by Viswaprasath. Any form of replication from 
+this application should not be done. If you need to refer anything from here,prior permission 
+has to be requested.
+</license>
+
+</widget>

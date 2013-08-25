@@ -1,0 +1,190 @@
+function ques(n)
+{
+var que = new Array();
+switch(n)
+{
+case 1:
+que[0]="A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?";
+que[1]="3.6 km/hr";
+que[2]="7.2 km/hr";
+que[3]="8.4 km/hr";
+que[4]="10 km/hr";
+que[5]="7.2 km/hr";
+break;
+
+case 2:
+que[0]="A cyclist covers a distance of 750 meter in 2 minutes 30 seconds. What is the speed in km/hr of cyclist";
+que[1]="16 km/hr";
+que[2]="17 km/hr";
+que[3]="18 km/hr";
+que[4]="19 km/hr";
+que[5]="18 km/hr";
+break;
+
+case 3:
+que[0]="Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?";
+que[1]="9";
+que[2]="10";
+que[3]="12";
+que[4]="20";
+que[5]="10";
+break;
+
+case 4:
+que[0]="An athlete runs 200 meters in 24 seconds. His speed is ?";
+que[1]="10 km/hr";
+que[2]="17 k/hr";
+que[3]="27 km/hr";
+que[4]="30 km/hr";
+que[5]="30 km/hr";
+break;
+
+case 5:
+que[0]="A man is walking at the rate of 5 km/hr crosses a bridge in 15 minutes. The length of the bridge is";
+que[1]="1000 meters";
+que[2]="1050 meters";
+que[3]="1200 meters";
+que[4]="1250 meters";
+que[5]="1250 meters";
+break;
+
+case 6:
+que[0]="A man complete a journey in 10 hours. He travels first half of the journey at the rate of 21 km/hr and second half at the rate of 24 km/hr. Find the total journey in km.";
+que[1]="220km";
+que[2]="224km";
+que[3]="230km";
+que[4]="234km";
+que[5]="224km";
+break;
+
+case 7:
+que[0]="Two boys starting from the same place walk at a rate of 5kmph and 5.5kmph respectively. What time will they take to be 8.5km apart, if they walk in the same direction?";
+que[1]="15 hours";
+que[2]="16 hours";
+que[3]="17 hours";
+que[4]="18 hours";
+que[5]="17 hours";
+break;
+
+case 8:
+que[0]="Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour ?";
+que[1]="8 minutes";
+que[2]="10 mintues";
+que[3]="12 minutes";
+que[4]="14 minutes";
+que[5]="10 mintues";
+break;
+
+
+case 9:
+que[0]="A man complete a journey in 10 hours. He travels first half of the journey at the rate of 21 km/hr and second half at the rate of 24 km/hr. Find the total journey in km.";
+que[1]="200 Km";
+que[2]="222 Km";
+que[3]="224 Km";
+que[4]="248 Km";
+que[5]="224 Km";
+break;
+
+case 10:
+que[0]="A Man travelled a distance of 61 km in 9 hours. He travelled partly on foot at 4 km/hr and partly on bicycle at 9 km/hr. What is the distance travelled on foot?";
+que[1]="16 km";
+que[2]="14 km";
+que[3]="12 km";
+que[4]="10 km";
+que[5]="16 km";
+break;
+
+
+case 11:
+que[0]="In covering a distance of 30 km, Abhay takes 2 hours more than Sameer. If Abhay doubles his speed, then he would take 1 hour less than Sameer. Abhay's speed is:";
+que[1]="5kmph";
+que[2]="6kmph";
+que[3]="6.25kmph";
+que[4]="7.5kmph";
+que[5]="5kmph";
+break;
+
+case 12:
+que[0]="Robert is travelling on his cycle and has calculated to reach point A at 2 P.M. if he travels at 10 kmph, he will reach there at 12 noon if he travels at 15 kmph. At what speed must he travel to reach A at 1 P.M.?";
+que[1]="8kmph";
+que[2]="11kmph";
+que[3]="12kmph";
+que[4]="14kmph";
+que[5]="12kmph";
+break;
+
+case 13:
+que[0]="It takes eight hours for a 600 km journey, if 120 km is done by train and the rest by car. It takes 20 minutes more, if 200 km is done by train and the rest by car. The ratio of the speed of the train to that of the cars is:";
+que[1]="2:3";
+que[2]="3:2";
+que[3]="3:4";
+que[4]="4:3";
+que[5]="4:3";
+break;
+
+case 14:
+que[0]="A farmer travelled a distance of 61 km in 9 hours. He travelled partly on foot @ 4 km/hr and partly on bicycle @ 9 km/hr. The distance travelled on foot is:";
+que[1]="14km";
+que[2]="15km";
+que[3]="16km";
+que[4]="17km";
+que[5]="16km";
+break;
+
+case 15:
+que[0]="A man covered a certain distance at some speed. Had he moved 3 kmph faster, he would have taken 40 minutes less. If he had moved 2 kmph slower, he would have taken 40 minutes more. The distance (in km) is:";
+que[1]="35";
+que[2]="30";
+que[3]="40";
+que[4]="25";
+que[5]="40";
+break;
+
+case 16:
+que[0]="A person travels equal distances with speed of 3 km/hr, 4 km/hr and 5 km/hr and takes a total of 47 minutes. Find the total distane";
+que[1]="3";
+que[2]="4";
+que[3]="6";
+que[4]="9";
+que[5]="3";
+break;
+
+case 17:
+que[0]="A thief is noticed by a policeman from a distance of 200 m. The thief starts running and the policeman chases him. The thief and the policeman run at the rate of 10 km and 11 km per hour respectively. What is the distance between them after 6 minutes ?";
+que[1]="50m";
+que[2]="100m";
+que[3]="110m";
+que[4]="none";
+que[5]="100m";
+break;
+
+case 18:
+que[0]="";
+que[1]="";
+que[2]="";
+que[3]="";
+que[4]="";
+que[5]="";
+break;
+
+case 19:
+que[0]="";
+que[1]="";
+que[2]="";
+que[3]="";
+que[4]="";
+que[5]="";
+break;
+
+case 20:
+que[0]="";
+que[1]="";
+que[2]="";
+que[3]="";
+que[4]="";
+que[5]="";
+break;
+
+}
+return que;
+}

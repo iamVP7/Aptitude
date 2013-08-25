@@ -1,0 +1,6 @@
+function test(){
+
+element.getElementById("reguseridtd").innerHTML = "<input type='text' id='reguserid' autocomplete='off' maxlength='42' placeholder='Username' />";
+            element.getElementById("regpwdtd").innerHTML = "<input type='password' id='regpwd' maxlength='42' placeholder='Password' />";
+
+}

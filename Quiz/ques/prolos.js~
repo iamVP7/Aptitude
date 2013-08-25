@@ -1,0 +1,194 @@
+function ques(n)
+{
+var que = new Array();
+switch(n)
+{
+
+case 1:
+que[0]="A man buys an article for Rs. 27.50 and sells it for Rs.28.60. Find the gain percentage";
+que[1]="6";
+que[2]="4";
+que[3]="2";
+que[4]="8";
+que[5]="4";
+break;
+
+case 2:
+que[0]="Alfred buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is:";
+que[1]="32/7";
+que[2]="60/11";
+que[3]="10";
+que[4]="12";
+que[5]="60/11";
+break;
+
+
+case 3:
+que[0]="The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:";
+que[1]="15";
+que[2]="16";
+que[3]="18";
+que[4]="5";
+que[5]="16";
+break;
+
+
+case 4:
+que[0]="If selling price is doubled, the profit triples. Find the profit percent.";
+que[1]="100";
+que[2]="200";
+que[3]="120";
+que[4]="80";
+que[5]="100";
+break;
+
+case 5:
+que[0]="In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?";
+que[1]="50";
+que[2]="60";
+que[3]="70";
+que[4]="90";
+que[5]="70";
+break;
+
+case 6:
+que[0]="A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?";
+que[1]="3";
+que[2]="4";
+que[3]="5";
+que[4]="6";
+que[5]="5";
+break;
+
+
+case 7:
+que[0]="The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?";
+que[1]="2000";
+que[2]="2400";
+que[3]="1600";
+que[4]="1800";
+que[5]="2000";
+break;
+
+case 8:
+que[0]="A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?";
+que[1]="20";
+que[2]="70";
+que[3]="72";
+que[4]="88";
+que[5]="72";
+break;
+
+case 9:
+que[0]="A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?";
+que[1]="1090";
+que[2]="1160";
+que[3]="1190";
+que[4]="1202";
+que[5]="1190";
+break;
+
+case 10:
+que[0]="Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?";
+que[1]="3.5";
+que[2]="4.5";
+que[3]="5.6";
+que[4]="6.5";
+que[5]="5.6";
+break;
+
+case 11:
+que[0]="Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:";
+que[1]="33";
+que[2]="44";
+que[3]="55";
+que[4]="66";
+que[5]="44";
+break;
+
+case 12:
+que[0]="On selling 17 balls at Rs. 720, there is a loss equal to the cost price of 5 balls. The cost price of a ball is:";
+que[1]="45";
+que[2]="55";
+que[3]="56";
+que[4]="60";
+que[5]="60";
+break;
+
+
+case 13:
+que[0]="When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?";
+que[1]="25,300";
+que[2]="21,000";
+que[3]="22,300";
+que[4]="24,300";
+que[5]="25,300";
+break;
+
+case 14:
+que[0]="A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:";
+que[1]="8";
+que[2]="5";
+que[3]="10";
+que[4]="none";
+que[5]="5";
+break;
+
+case 15:
+que[0]="An article is sold at a certain price. By selling it at 2/3 of that price one loses 10%. Find the gain at original price";
+que[1]="35";
+que[2]="25";
+que[3]="45";
+que[4]="65";
+que[5]="35";
+break;
+
+case 16:
+que[0]="A merchant marks his goods up by 75% above his cost price. What is the maximum % Amount that he can offer so that he ends up selling at no profit or loss?";
+que[1]="75%";
+que[2]="46.67%";
+que[3]="300%";
+que[4]="42.85%";
+que[5]="42.85%";
+break;
+
+
+case 17:
+que[0]="If a man purchases 11 balls for Rs 10 and sells 10 balls for Rs. 11 , How much profit or loss does he make ?";
+que[1]="11";
+que[2]="21";
+que[3]="41";
+que[4]="51";
+que[5]="21";
+break;
+
+case 18:
+que[0]="A seller uses 900 gm in place of one kg to sell his goods. Find his actual % profit or loss When he sells his articles at 5 % loss on cost price ?";
+que[1]="6.56";
+que[2]="5.56";
+que[3]="5.65";
+que[4]="5.66";
+que[5]="5.56";
+break;
+
+case 19:
+que[0]="A man bought apples at the rate of 8 for Rs. 34 and sold them at the rate of 12 for Rs. 57. How many apples should be sold to earn a net profit of Rs. 45?";
+que[1]="85";
+que[2]="90";
+que[3]="95";
+que[4]="100";
+que[5]="90";
+break;
+
+case 20:
+que[0]="";
+que[1]="";
+que[2]="";
+que[3]="";
+que[4]="";
+que[5]="";
+break;
+
+}
+return que;
+}

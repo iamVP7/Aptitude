@@ -1,0 +1,208 @@
+<div style="background-color: #202020" data-bb-type="screen">
+	<div data-bb-type="title" data-bb-caption="Shapes"></div>
+
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Area of the Circle</h2><b>pi * r * r</b> <br />
+		<i>pi=3.14 <br />
+		r= radius</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Area of triangle</h2>
+		<b>(b * h) / 2</b> <br />
+		<i>b = base<br />
+		h = height</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Area of Square</h2>
+		<b>a * a</b> <br />
+		<i>a= side</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Area of Rectangle</h2>
+		<b>l * b</b> <br />
+		<i>l=length<br />
+	b=breadth</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Area of Parallelogram</h2>
+		<b>b * h</b> <br />
+		<i>b = base<br />
+	h = vertical height</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Area of Trapezium</h2>
+		<b>( (a+b) / 2) * h</b> <br />
+		<i>h = vertical height<br />
+	a,b=length of side</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Area of ellipse</h2>
+		<b>pi * a * b</b> <br />
+		<i>pi= 3.14<br />
+	a= radius on x axis<br />
+	b= radius on y axis</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Perimeter of Square</h2>
+		<b>4 * a</b> <br />
+		<i>a= side</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Perimeter of Rectangle</h2>
+		<b>2 * ( l+b )</b> <br />
+		<i>l=length<br />
+	b=breadth</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Perimeter of  Triangle</h2>
+		<b>a + b + c</b> <br />
+		<i>a,b,c are sides</i>
+ 
+		</div>
+	</div>
+	 
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Perimeter of Parallelogram</h2>
+		<b>2 * (w+h)</b> <br />
+		<i>w is the base length of the parallelogram<br />
+	h is the side length</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Perimeter of Trapezium </h2>
+		<b>a + b + c + d</b> <br />
+		<i>a, b, c, d = sides</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Volume  of cube</h2>
+		<b>a * a * a</b> <br />
+		<i>a= side</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Volume of Cylinder</h2>
+		<b>pi * r * r * h</b> <br />
+		<i>pi= 3.14<br />
+	r= radius<br />
+	h=height</i>
+ 
+		</div>
+	</div>
+	 
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Volume of Cone</h2>
+		<b>(pi * r * r * h) / 3</b> <br />
+		<i>pi= 3.14<br />
+	r=radius<br /> 
+	h=height</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Volume of Sphere</h2>
+		<b>( 4 * pi * r * r * r) / 3</b> <br />
+		<i>pi=3.14<br />
+	r=radius</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Surface area of Sphere</h2>
+		<b>(4 * pi * r * r)</b> <br />
+		<i>pi=3.14<br />
+	r=radius</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Surface area of cone</h2>
+		<b>pi * r * s + pi *r *r</b> <br />
+		<i>Pi * r * r = area of base<br />
+	pi * r * s = area of cone<br />
+	pi=3.14<br />
+	r=radius<br />
+	s=slanth height</i>
+ 
+		</div>
+	</div>
+	
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Surface area of Cylinder</h2>
+		<b>2 * pi * r * r +  2 * pi * r * h</b> <br />
+		<i>area of top and bottom is pi * r * r<br />
+	area of side is 2 * pi * r * h</i>
+ 
+		</div>
+	</div>
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Surface area of cuboid</h2>
+		<b>2 * ( w*l + l*h + h*w)</b> <br />
+		<i>w=width<br />
+	l=length<br />
+	h=heigth</i>
+ 
+		</div>
+	</div>
+	 
+	 
+	<div data-bb-type="action-bar" data-bb-back-caption="Back"></div>
+</div>

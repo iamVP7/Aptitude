@@ -1,0 +1,63 @@
+<div style="background-color: #202020" data-bb-type="screen">
+	<div data-bb-type="title" data-bb-caption="Time and Distance"></div>
+
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Velocity or Speed </h2>  
+		<i> The speed of something in a given direction.</i> <br />
+		<b>Speed = (1 / timetaken)<br />
+Speed= (Distance) / (Time Taken)	</b>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Distance </h2> 
+		<i> At a given amount of time and with the velocity the area covered is distance.</i><br />
+		<b>Distance = (Speed x Time taken)</b><br />
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Time </h2>  
+		<i> The time taken usually to cover certain distance.</i><br />
+		<b>Time Taken = (Distance) /(Speed)</b><br />
+ <i>So if a and b are speed which are in ratio a:b then its time taken is (1/a) : (1/b) or b:a</i>
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2> km/hr to m/sec conversion:</h2>  
+		 
+		<b>y km/hr =y *(5 /18) m/sec.	</b> 
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>m/sec to km/hr conversion: </h2>  
+		 
+		<b>y km/hr =y *(18/5) m/sec.	</b> 
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		 
+		<i> Suppose a man covers a certain distance at x km/hr and an equal distance at y km/hr. Then,the average speed during the whole journey is </i> <br />
+		<b>	(2 * x * y) /(x+y)	km/hr.</b><br />
+ 
+		</div>
+	</div>
+
+ 
+	 
+	<div data-bb-type="action-bar" data-bb-back-caption="Back"></div>
+</div>

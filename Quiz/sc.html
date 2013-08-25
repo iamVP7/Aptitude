@@ -1,0 +1,155 @@
+<!doctype HTML>
+<html>
+	<head>
+ 
+<link rel="stylesheet" href="styles.css" type="text/css" media="screen" />
+ 
+<!-- Generating the random numbers-->
+<script src="JS/num.js" type="text/javascript"> </script>
+<script src="ques/sc.js" type="text/javascript"> </script>
+	
+<script type="text/javascript"> 
+var i=0;
+var num = new Array(10); // for 10 numbers
+var quest = new Array(6); // for getting answer
+var score=0;               // score
+// getting the number and calling the function to display the question
+function loade()
+{
+myTimer();
+num=loadnum();
+display();
+}
+
+// display the question
+function display()
+{
+ 
+quest = ques(num[i]);
+document.getElementById('scores').innerHTML=score;
+document.getElementById('question').innerHTML=quest[0];
+document.getElementById('ans1').innerHTML=quest[1];
+document.getElementById('ans2').innerHTML=quest[2];
+document.getElementById('ans3').innerHTML=quest[3];
+document.getElementById('ans4').innerHTML=quest[4];   
+++i; 
+}
+
+// clicking the next button
+function next()
+{
+document.getElementById('show').innerHTML=" "; 
+
+if(i<10 || t==0)
+display();
+else
+finish();
+}
+
+
+// checking the 1st answer
+function check1()
+{
+var ans=document.getElementById('ans1').innerHTML;
+ if(ans == quest[5])
+{
+document.getElementById('show').innerHTML="<button class='hide' onclick='next()'>Next</button <br> <b> Correct answer!! </b>"; 
+score = score+10;
+}
+else
+{
+document.getElementById('show').innerHTML="<button class='hide'onclick='next()'>Next</button <br> <b> Wrong Answer !! </b>"; 
+}
+
+
+}
+
+// checking the 2nd answer
+function check2()
+{
+var ans=document.getElementById('ans2').innerHTML;
+ if(ans == quest[5])
+{
+document.getElementById('show').innerHTML="<button class='hide' onclick='next()'>Next</button <br> <b> Correct answer </b>";
+score = score+10;
+}
+else
+{
+document.getElementById('show').innerHTML="<button class='hide' onclick='next()'>Next</button <br> <b> Wrong Answer !! </b>"; 
+}
+
+}
+
+// checking the 3rd answer
+function check3()
+{
+var ans=document.getElementById('ans3').innerHTML;
+ if(ans == quest[5])
+{
+document.getElementById('show').innerHTML="<button class='hide' onclick='next()'>Next</button <br> <b> Correct answer </b>";
+score = score+10;
+}
+else
+{
+document.getElementById('show').innerHTML="<button class='hide' onclick='next()'>Next</button <br> <b> Wrong Answer !! </b>"; 
+}
+
+}
+
+// checking the 4th answer
+function check4()
+{
+var ans=document.getElementById('ans4').innerHTML;
+ if(ans == quest[5])
+{
+document.getElementById('show').innerHTML="<button class='hide' onclick='next()'>Next</button <br> <b> Correct answer </b>";
+score = score+10;
+}
+else
+{
+document.getElementById('show').innerHTML="<button class='hide'onclick='next()'>Next</button <br> <b> Wrong Answer !! </b>"; 
+}
+
+}
+
+</script>
+
+</head>
+
+
+	<body class="whole" onload="loade()" bgcolor=" #202020">
+
+<header>
+<h1>ROOTS</h1>
+</header>
+
+<section>
+ 
+<table>
+<tr>
+<td align="left"  class="question" > Score<b id="scores" align="left"> </b> </td>            
+<td align="right" class="question">Time<b  id="min"></b>:<b  id="sec"></b> </td>
+</tr>
+</table>
+
+
+<label class="question" id="question"> </label>
+<button class="ans" onclick="check1()" id="ans1">  </button> <br /> 
+<button class="ans"  onclick="check2()"  id="ans2">  </button> <br />
+<button class="ans"  onclick="check3()"  id="ans3">  </button> <br />
+<button class="ans"  onclick="check4()"  id="ans4">  </button> <br />
+
+ <br />
+<div class="question" id="show">
+</div>
+ 
+
+</section>
+
+<pre>
+<button class="foot" onclick="window.open('../index.html','_top')"> Exit </button>  
+ </pre>
+ 
+	</body>
+
+</html>

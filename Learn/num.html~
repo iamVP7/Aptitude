@@ -1,0 +1,122 @@
+<div style="background-color: #202020" data-bb-type="screen">
+	<div data-bb-type="title" data-bb-caption="Numbers"></div>
+
+
+	<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>929865843</h2>
+		 
+		<i>3-units(10^0) <br />
+4-tens(10^1)<br />
+8-hunders(10^2)<br />
+5-thousands(10^3)<br />
+6-ten thousands(10^4)<br />
+8-lacs(10^5)<br />
+9-ten lacs(10^6)<br />
+2-crores(10^7)<br />
+9-ten crores(10^8)</i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2> Place value or local value.</h2>
+		 
+		<i> is the number which is obtained by multiplication of that number with place value.
+for 7890 <br />
+ 
+The local value of 9 is 9 *10 = 90</i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Face value </h2>
+		 
+		<i> Face value of any number is that number itself. <br />
+
+face value of 9 is 9 itself.</i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>commutative law </h2>
+		 
+		<i> a * ( b + c) = (a * b) + (a * c) <br />
+a * ( b - c) = (a * b) - (a * c)</i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2> Squares and cubes</h2>
+		 
+		<i> (a+b)^2 = a * a + 2 * a * b + b * b <br />
+
+(a+b)^3 = a * a * a + 3 * a * a * b + 3 * a * b * b + b * b * b <br />
+
+(a+b+c)^2 = a * a + b * b+ c * c+ 2 *( a * b + b * a + b * c) <br />
+
+(a+b) (a-b) = a*a - b*b</i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Summation series </h2>
+		 
+		<i> 1 + 2 + 3 + ..... + n = n * (n+1) / 2 <br /> <br />
+
+1 + 4 + 9 + 16 + .... + n * n = <br />n * (n + 1 ) * (n + 2) / 6 <br /> <br />
+
+1 + 8 + 27 + 64 + 125 ...  + n * n * n = <br /> n * n * (n+1) * (n+1) / 4</i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>In Arithmetic progression(A.P) </h2>
+		 
+		<i> Tn = a  + (n-1) * d. <br />
+
+Where <br />
+Tn= nth term<br />
+a = first term<br />
+d = difference between two terms<br />
+n = number of terms<br />
+
+<b>The sum of n terms in A.P</b> <br />
+sn= n * [ 2 * a + ( n - 1 ) * d) / 2<br />
+  = n [first term + last term] / 2 </i>
+ 
+		</div>
+	</div>
+
+<div style="background-color: #202020" data-bb-type="round-panel"> 
+		<div style="color: white;">
+		<h2>Geomentric progression </h2>
+		 
+		<i> if terms are a*r, a*r*r, a*r*r*r,... <br />
+
+then <br />
+Tn= a * r^(n-1)<br />
+
+<b>Sum of the terms </b><br />
+Sn = a * ( 1 -  r^n) / (1 - r)<br />
+
+a = first term<br />
+r = common ratio.</i>
+ 
+		</div>
+	</div>
+	 
+	 
+	<div data-bb-type="action-bar" data-bb-back-caption="Back"></div>
+</div>
